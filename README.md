@@ -1,1 +1,2 @@
-# Blush-ycat-pet-simulator
+# Blushy cat-pet-simulator
+just a game :)
